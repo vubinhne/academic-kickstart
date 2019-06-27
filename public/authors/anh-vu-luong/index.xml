@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anh Vu Luong on Alan&#39;s lab</title>
+    <link>/authors/anh-vu-luong/</link>
+    <description>Recent content in Anh Vu Luong on Alan&#39;s lab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/anh-vu-luong/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Multi-Label Classification via Incremental Clustering on Evolving Data Stream</title>
+      <link>/publication/nguyen-2019-multi-1/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/nguyen-2019-multi-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-label classification via label correlation and first order feature dependance in a data stream</title>
+      <link>/publication/nguyen-2019-multi-2/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/nguyen-2019-multi-2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

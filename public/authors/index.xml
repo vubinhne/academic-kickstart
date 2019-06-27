@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Alan&#39;s lab</title>
+    <link>/authors/</link>
+    <description>Recent content in Authors on Alan&#39;s lab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Alan Wee-Chung Liew</title>
+      <link>/authors/alan-wee-chung-liew/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/alan-wee-chung-liew/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anh Vu Luong</title>
+      <link>/authors/anh-vu-luong/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/anh-vu-luong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bela Stantic</title>
+      <link>/authors/bela-stantic/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/bela-stantic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>John McCall</title>
+      <link>/authors/john-mccall/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/john-mccall/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manh Truong Dang</title>
+      <link>/authors/manh-truong-dang/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/manh-truong-dang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quoc Viet Hung Nguyen</title>
+      <link>/authors/quoc-viet-hung-nguyen/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/quoc-viet-hung-nguyen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thi Thu Thuy Nguyen</title>
+      <link>/authors/thi-thu-thuy-nguyen/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/thi-thu-thuy-nguyen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tiancai Liang</title>
+      <link>/authors/tiancai-liang/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/tiancai-liang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tien Thanh Nguyen</title>
+      <link>/authors/tien-thanh-nguyen/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/tien-thanh-nguyen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/alan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/alan/</guid>
+      <description>&lt;p&gt;Welcome to the Alan Lab at the Griffith University. We are creating new online machine learning algorithms that can process streaming data and learn-on-the-fly&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/vu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/vu/</guid>
+      <description>&lt;p&gt;Anh Vu Luong is currently a PhD student at the School of Information &amp;amp; Communication Technology, Griffith University, Australia. His research interest is in the field of machine learning and pattern recognition.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
