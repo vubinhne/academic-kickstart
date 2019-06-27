@@ -1,16 +1,16 @@
 ---
 # Display name
-name: Alan Wee Chung Liew
+name: Thi Thu Thuy Nguyen
 
 # Username (this should match the folder name)
 authors:
-- admin
+- thuy
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Deputy Head of School (Research) School of Information and Communication Technology
+role: PhD student in Computer Science
 
 # Organizations/Affiliations
 organizations:
@@ -46,6 +46,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
+- Grad Students
 ---
 
-Welcome to the Alan Lab at the Griffith University. We are creating new online machine learning algorithms that can process streaming data and learn-on-the-fly...
+Thi Thu Thuy Nguyen is currently a PhD student at the School of Information & Communication Technology, Griffith University, Australia. She graduated from the Faculty of Mathematics, Voronezh State University, Russia in 2008. Her research interest is in the field of applied mathematics, machine learning, and pattern recognition.
