@@ -13,11 +13,11 @@
     
     <item>
       <title></title>
-      <link>/authors/vu/</link>
+      <link>/authors/alan/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/authors/vu/</guid>
-      <description>&lt;p&gt;Anh Vu Luong is currently a PhD student at the School of Information &amp;amp; Communication Technology, Griffith University, Australia. His research interest is in the field of machine learning and pattern recognition.&lt;/p&gt;
+      <guid>/authors/alan/</guid>
+      <description>&lt;p&gt;Welcome to the Alan Lab at the Griffith University. We are creating new online machine learning algorithms that can process streaming data and learn-on-the-fly&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
@@ -104,20 +104,20 @@
     
     <item>
       <title></title>
-      <link>/authors/admin/</link>
+      <link>/authors/vu/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;Welcome to the Alan Lab at the Griffith University. We are creating new online machine learning algorithms that can process streaming data and learn-on-the-fly&amp;hellip;&lt;/p&gt;
+      <guid>/authors/vu/</guid>
+      <description>&lt;p&gt;Anh Vu Luong is currently a PhD student at the School of Information &amp;amp; Communication Technology, Griffith University, Australia. His research interest is in the field of machine learning and pattern recognition.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>/authors/alan/</link>
+      <link>/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/authors/alan/</guid>
+      <guid>/authors/admin/</guid>
       <description>&lt;p&gt;Welcome to the Alan Lab at the Griffith University. We are creating new online machine learning algorithms that can process streaming data and learn-on-the-fly&amp;hellip;&lt;/p&gt;
 </description>
     </item>

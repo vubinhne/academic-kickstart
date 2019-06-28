@@ -6,14 +6,25 @@
     <description>Recent content on Alan&#39;s lab</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/alan/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Are you interested in joining our laboratory?</title>
+      <link>/post/invitation/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/invitation/</guid>
+      <description>&lt;p&gt;We are always interested in recruiting talented undergraduate and graduate students, and postdoctoral fellows to join our research group. We also welcome faculty for sabbatical visits.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title></title>
       <link>/authors/alan/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>/authors/alan/</guid>
       <description>&lt;p&gt;Welcome to the Alan Lab at the Griffith University. We are creating new online machine learning algorithms that can process streaming data and learn-on-the-fly&amp;hellip;&lt;/p&gt;
